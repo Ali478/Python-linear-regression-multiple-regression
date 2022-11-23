@@ -12,3 +12,7 @@ Simple linear regression is a regression model that estimates the relationship b
 
 ![simple-linear-regression-graph](https://user-images.githubusercontent.com/54278016/203572589-c20d0b44-0a5b-455e-b43a-96abbb22ff74.png)
 
+>## Example
+>We could use the equation to predict weight if we knew an individual's height. In this example, if an individual was 70 inches tall, we would predict his >weight to be: Weight = 80 + 2 x (70) = 220 lbs. In this simple linear regression, we are examining the impact of one independent variable on the outcome
+
+>![SimpleLinearRegression](https://user-images.githubusercontent.com/54278016/203573669-1de650c5-0e35-4021-b5d1-260f24f894c4.png)
