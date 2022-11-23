@@ -16,3 +16,8 @@ Simple linear regression is a regression model that estimates the relationship b
 >We could use the equation to predict weight if we knew an individual's height. In this example, if an individual was 70 inches tall, we would predict his >weight to be: Weight = 80 + 2 x (70) = 220 lbs. In this simple linear regression, we are examining the impact of one independent variable on the outcome
 
 >![SimpleLinearRegression](https://user-images.githubusercontent.com/54278016/203573669-1de650c5-0e35-4021-b5d1-260f24f894c4.png)
+
+## What is multiple linear regression? 
+Multiple linear regression is a regression model that estimates the relationship between a quantitative dependent variable and two or more independent variables using a straight line.
+
+![multiple-regression-in-r-graph-1](https://user-images.githubusercontent.com/54278016/203574632-1468c759-babd-4f50-9e01-597fee8f4e41.png)
